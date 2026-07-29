@@ -1,0 +1,11 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python / Jupyter Cache
+__pycache__/
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/
