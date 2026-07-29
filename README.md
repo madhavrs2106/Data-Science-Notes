@@ -12,7 +12,9 @@ Welcome to my personal Data Science repository! This space serves as a comprehen
 📁 Data-Science-Notes/
 │
 ├── 📁 1. Statistics/
-│   ├── Measures_of_Central_Tendency.ipynb
+│   ├── 📁 images
+│   ├── 1.Measures_of_Central_Tendency.ipynb
+│   ├── 2.Measures_of_Variability.ipynb
 │   └── Titanic-Dataset.csv
 │
 ├── .gitignore
