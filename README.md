@@ -16,6 +16,7 @@ Welcome to my personal Data Science repository! This space serves as a comprehen
 │   ├── 1.Measures_of_Central_Tendency.ipynb
 │   ├── 2.Measures_of_Variability.ipynb
 │   ├── 3.Percentiles_&_Quantiles.ipynb
+│   ├── 4.Skewness.ipynb
 │   └── Titanic-Dataset.csv
 │
 ├── .gitignore
