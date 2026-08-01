@@ -2,7 +2,9 @@
 
 ---
 
-Welcome to my personal Data Science repository! This space serves as a comprehensive collection of my notes, hands-on practice, and code implementations as I build my foundation in Data Science, Statistics, and Machine Learning.
+Welcome to my personal Data Science repository! This space serves as a comprehensive 
+collection of my notes, hands-on practice, and code implementations as I build my 
+foundation in Data Science, Statistics, and Machine Learning.
 
 ---
 
