@@ -21,5 +21,11 @@ foundation in Data Science, Statistics, and Machine Learning.
 │   ├── 4.Skewness.ipynb
 │   └── Titanic-Dataset.csv
 │
+├── 📁 2. Probability/
+│   ├── 📁 images
+│   ├── 1.Random_Variable.ipynb
+│   ├── 2.Probability.ipynb
+│   └── Titanic-Dataset.csv
+│
 ├── .gitignore
 └── README.md
