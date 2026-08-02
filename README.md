@@ -34,5 +34,10 @@ foundation in Data Science, Statistics, and Machine Learning.
 │   ├── 3.Central_Limit_Theorem.ipynb
 │   └── tips.csv
 │
+├── 📁 4. Hypothesis Testing/
+│   ├── 📁 images
+│   ├── 1.Hypothesis_Testing.ipynb
+│   └── tips.csv
+│
 ├── .gitignore
 └── README.md
