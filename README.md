@@ -25,7 +25,13 @@ foundation in Data Science, Statistics, and Machine Learning.
 │   ├── 📁 images
 │   ├── 1.Random_Variable.ipynb
 │   ├── 2.Probability.ipynb
-│   └── Titanic-Dataset.csv
+│   └── 3.Probability_Distribution.ipynb
+│
+├── 📁 3. Covariance & Correlation/
+│   ├── 📁 images
+│   ├── 1.Covariance.ipynb
+│   ├── 2.Correlation.ipynb
+│   └── tips.csv
 │
 ├── .gitignore
 └── README.md
