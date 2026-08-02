@@ -31,6 +31,7 @@ foundation in Data Science, Statistics, and Machine Learning.
 │   ├── 📁 images
 │   ├── 1.Covariance.ipynb
 │   ├── 2.Correlation.ipynb
+│   ├── 3.Central_Limit_Theorem.ipynb
 │   └── tips.csv
 │
 ├── .gitignore
