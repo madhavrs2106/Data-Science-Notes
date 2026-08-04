@@ -37,7 +37,8 @@ foundation in Data Science, Statistics, and Machine Learning.
 ├── 📁 4. Hypothesis Testing/
 │   ├── 📁 images
 │   ├── 1.Hypothesis_Testing.ipynb
-│   ├── 2.Z-Test.ipynb
+│   ├── 2.Z-Test_Example1.ipynb
+│   ├── 3.Z-Test_Example2.ipynb
 │   └── tips.csv
 │
 ├── .gitignore
