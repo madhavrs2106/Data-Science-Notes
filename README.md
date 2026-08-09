@@ -63,6 +63,18 @@ or difference in sample data is statistically significant or merely a result of 
 - T-Test
 - Chi-Square-Test
 
+---
+
+## 5. Machine Learning 🤖:
+
+Machine learning (ML) provides the predictive algorithms and automation tools that data scientists 
+use to extract actionable insights from large datasets.
+
+### ✅ Topics Covered:
+
+- Machine Learning
+- Variables in Machine Learning
+
 <br/>
 
 # 🗂️ Project Structure
@@ -104,7 +116,8 @@ or difference in sample data is statistically significant or merely a result of 
 │
 ├── 📁 5. Machine Learning/
 │   ├── 📁 images
-│   └── 1.Machine_Learning.ipynb
+│   ├── 1.Machine_Learning.ipynb
+│   └── 2.Variables_in_ML.ipynb
 │
 ├── .gitignore
 └── README.md
