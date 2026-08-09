@@ -102,5 +102,24 @@ or difference in sample data is statistically significant or merely a result of 
 │   ├── 5.T-Test_Example2.ipynb
 │   └── 6.Chi-Square-Test_Example1.ipynb
 │
+├── 📁 5. Machine Learning/
+│   ├── 📁 images
+│   └── 1.Machine_Learning.ipynb
+│
 ├── .gitignore
 └── README.md
+```
+
+---
+
+## 👨‍💻 Author
+
+**Madhav Shukla**
+
+Computer Science & Engineering (AI)
+
+Passionate about
+- C++
+- Data Structures & Algorithms
+- Data Analytics
+- Software Development
