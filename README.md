@@ -65,7 +65,20 @@ or difference in sample data is statistically significant or merely a result of 
 
 ---
 
-## 5. Machine Learning 🤖:
+## 5. Data Cleaning & Preprocessing
+
+Data cleaning and preparation is the essential first step in data science that fixes raw, messy data. 
+It involves removing duplicates, handling missing values, correcting structural errors, and filtering 
+outliers to make datasets accurate and ready for machine learning
+
+### ✅ Topics Covered:
+
+- Variables in Dataset.
+- Data Cleaning.
+
+---
+
+## 6. Machine Learning 🤖:
 
 Machine learning (ML) provides the predictive algorithms and automation tools that data scientists 
 use to extract actionable insights from large datasets.
@@ -114,10 +127,15 @@ use to extract actionable insights from large datasets.
 │   ├── 5.T-Test_Example2.ipynb
 │   └── 6.Chi-Square-Test_Example1.ipynb
 │
-├── 📁 5. Machine Learning/
+├── 📁 5. Data Cleaning & Preprocessing/
 │   ├── 📁 images
-│   ├── 1.Machine_Learning.ipynb
-│   └── 2.Variables_in_ML.ipynb
+│   ├── 1.Variables_in_ML.ipynb
+│   ├── 2.Data_Cleaning.ipynb
+│   └── loan_data_set.csv
+│
+├── 📁 6. Machine Learning/
+│   ├── 📁 images
+│   └── 1.Machine_Learning.ipynb
 │
 ├── .gitignore
 └── README.md
