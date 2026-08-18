@@ -131,6 +131,7 @@ use to extract actionable insights from large datasets.
 │   ├── 📁 images
 │   ├── 1.Variables_in_ML.ipynb
 │   ├── 2.Data_Cleaning.ipynb
+│   ├── 3.One-Hot_Encoding.ipynb
 │   └── loan_data_set.csv
 │
 ├── 📁 6. Machine Learning/
