@@ -77,6 +77,7 @@ outliers to make datasets accurate and ready for machine learning
 - Data Cleaning.
 - One-Hot Encoding.
 - Label Encoding.
+- Ordinal Encoding.
 
 ---
 
@@ -135,6 +136,7 @@ use to extract actionable insights from large datasets.
 │   ├── 2.Data_Cleaning.ipynb
 │   ├── 3.One-Hot_Encoding.ipynb
 │   ├── 4.Label_Encoding.ipynb
+│   ├── 5.Ordinal_Encoding.ipynb
 │   └── loan_data_set.csv
 │
 ├── 📁 6. Machine Learning/
